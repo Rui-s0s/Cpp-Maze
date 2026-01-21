@@ -65,4 +65,5 @@ Esto permite analizar el rendimiento y evidenciar la eficiencia del uso de **C++
 
 ### Compilar
 ```bash
-clang++ main.cpp -o main 
+clang++ main.cpp -o main
+./main [ancho] [alto] [semilla]
